@@ -1,2 +1,2 @@
-# admin_semple
-admin page semple
+# admin_sample
+admin page sample
